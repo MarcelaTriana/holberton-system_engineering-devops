@@ -1,0 +1,28 @@
+total 48
+drwxrwxr-x 2 vagrant vagrant 4096 Jan 31 19:31 .
+drwxrwxr-x 6 vagrant vagrant 4096 Jan 31 03:34 ..
+-rwxrw-r-- 1 vagrant vagrant   33 Jan 31 17:12 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 10-no_more_js
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 11-directories
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 12-newest_files
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 13-unique
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 14-findthatword
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 15-countthatword
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 16-whatsnext
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 17-hidethisword
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 18-letteronly
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 19-AZ
+-rwxrw-r-- 1 vagrant vagrant   33 Jan 31 18:28 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 20-hiago
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 21-reverse
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 22-users_and_homes
+-rwxrw-r-- 1 vagrant vagrant   27 Jan 31 18:36 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant   39 Jan 31 18:43 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant   29 Jan 31 18:47 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   29 Jan 31 18:50 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   40 Jan 31 18:59 6-third_line
+-rwxrw-r-- 1 vagrant vagrant   95 Jan 31 19:09 7-file
+-rwxrw-r-- 1 vagrant vagrant   35 Jan 31 19:31 8-cwd_state
+-rwxrw-r-- 1 vagrant vagrant    0 Jan 31 16:50 9-duplicate_last_line
+-rw-r--r-- 1 root    root      17 Jan 31 19:22 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root    root       0 Jan 31 19:31 ls_cwd_content
